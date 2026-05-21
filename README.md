@@ -74,28 +74,28 @@ This assignment is not about the most complex code. It is about thinking like a 
 - Understand the overall goals before writing the first cell
 - Note what each task expects
 
-1. **Start with the data**
+2. **Start with the data**
 
 - Load each CSV; inspect columns and types
 - Make a small "data dictionary" in your notes
 
-1. **Clean before you explore**
+3. **Clean before you explore**
 
 - Do not skip cleaning — plots and insights depend on it
 - Watch for odd values, missing entries, formatting issues, and cross-table inconsistencies
 
-1. **Interpret as you go**
+4. **Interpret as you go**
 
 - After meaningful output, pause and say what it implies
 - Do not leave all "summary" writing until the end — **draft as you go**
 
-1. **Be strategic about visualizations**
+5. **Be strategic about visualizations**
 
 - Simple, clean plots are fine
 - Label axes, use sensible scales, avoid unnecessary styling
 - Library-default plots are acceptable during exploration; the **final report** should use **proper** visuals per guidelines
 
-1. **Leave time for the presentation**
+. **Leave time for the presentation**
 
 - Treat it as a core deliverable, not an afterthought
 - Aim for **just enough** to tell a story to a curious, **non-technical** stakeholder
@@ -136,6 +136,8 @@ Upload **3 files**:
 - `iat461_a1_[your_initials].ipynb`
 - `iat461_a1_[your_initials].pdf`
 - `iat461_a1_insights_[your_initials].pdf`
+
+**Note**: Alternatively, you can have a GitHub repo containing these three files and just submit the link to your repo on Canvas. We sugguest you using GitHub as we try to help you get more comfortable with it.
 
 ---
 
