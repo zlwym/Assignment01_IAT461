@@ -1,4 +1,5 @@
 # IAT 461 — Assignment 1: Exploratory Data Analysis (Twitch Viewership)
+Deadline: June 3rd - 23:55
 
 ## Overview
 
@@ -171,17 +172,15 @@ Your class has one job: **find them all.**
 
 ### How it works
 
-A shared Git repository has been set up for this challenge. The repository contains. You can discuss your findings on the discord channel:
+A **discussion** is created on Canvas for you to submit your findings. You may discuss about the challenge or your findings either on the Canvas discussion page or on the Discord thread. Either way, **please submit your final findings on the Canvas discussion**.:
 
-- The four dataset CSVs
-- A file called `FINDINGS.md` where discoveries are documented
-
-To participate, contribute your findings to `FINDINGS.md` before the A1 deadline. Each documented issue should include:
+To participate, contribute your findings to the discussion before the A1 deadline. Each documented issue should include:
 
 1. **What the problem is** — a clear description of the data quality issue
 2. **Which file and column(s)** it appears in
 3. **How you found it** — a short code snippet or description of your detection method
 4. **How many rows** are affected (approximate is fine)
+5. **Name of the people** involved in finding the issue
 
 ### The goal
 
